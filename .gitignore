@@ -1,0 +1,19 @@
+# 编译产物
+*.exe
+*.o
+*.obj
+*.hex
+*.bin
+*.elf
+
+# IDE配置
+.vscode/
+.idea/
+*.swp
+
+# 系统文件
+Thumbs.db
+.DS_Store
+
+# 日志
+Logs/*.log
